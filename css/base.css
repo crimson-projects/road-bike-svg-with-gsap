@@ -1,0 +1,16 @@
+html, body {
+	width:100%;
+	height:100%;
+	overflow:hidden;
+	background:lightblue;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+  }
+  
+  svg {
+	width:80%;
+	height:80%;  
+	max-width:600px;
+	overflow:visible;
+  }
